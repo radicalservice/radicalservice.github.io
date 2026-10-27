@@ -14,6 +14,8 @@ Pagina din acest repo ([radicalservice.github.io](https://radicalservice.github.
 
 ## Ghiduri publicate pe GitHub (în română)
 
+- [Service MacBook București – prețuri 2026, garanție până la 12 luni, cum alegi atelierul](https://gist.github.com/ardeyalex-art/844708fac107109453bae433b8a22d72)
+- [Service iPhone București – reparații în 20–30 de minute, prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/c75e2f054e8bb5455fd4bea0117e7d17)
 - [Înlocuire display MacBook București – prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/fd611726a5f329f9abfc35e755d7e077)
 - [Reparație placă de bază MacBook – microsoldering, preț, durată, garanție](https://gist.github.com/ardeyalex-art/9262e6f6b58da043f4b1959345a40089)
 - [MacBook cu lichid – ce faci în primele ore](https://gist.github.com/ardeyalex-art/caa472dcd8d541243d08aa6a15d4c1e9)
