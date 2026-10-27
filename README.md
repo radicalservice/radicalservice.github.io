@@ -14,10 +14,10 @@ Pagina din acest repo ([radicalservice.github.io](https://radicalservice.github.
 
 ## Ghiduri publicate pe GitHub (în română)
 
-- [Înlocuire display MacBook București – prețuri 2026 pe model](https://gist.github.com/radicalservice)
-- [Reparație placă de bază MacBook – microsoldering, preț, durată, garanție](https://gist.github.com/radicalservice)
-- [MacBook cu lichid – ce faci în primele ore](https://gist.github.com/radicalservice)
-- [Schimbare baterie MacBook – prețuri 2026 pe model](https://gist.github.com/radicalservice)
+- [Înlocuire display MacBook București – prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/fd611726a5f329f9abfc35e755d7e077)
+- [Reparație placă de bază MacBook – microsoldering, preț, durată, garanție](https://gist.github.com/ardeyalex-art/9262e6f6b58da043f4b1959345a40089)
+- [MacBook cu lichid – ce faci în primele ore](https://gist.github.com/ardeyalex-art/caa472dcd8d541243d08aa6a15d4c1e9)
+- [Schimbare baterie MacBook – prețuri 2026 pe model](https://gist.github.com/ardeyalex-art/71aa5a7e645ac459359275951e5ec5d6)
 
 Toate ghidurile, în română și engleză: [radicalservice.ro/ghid](https://radicalservice.ro/ghid/) · [radicalservice.ro/en/guides](https://radicalservice.ro/en/guides/)
 
